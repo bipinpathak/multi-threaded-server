@@ -24,4 +24,4 @@ A server that can handle multiple threads, where each thread is responsible to p
 ## Resources
 
  - https://www.youtube.com/watch?v=TPVH_coGAQs&list=PLk6CEY9XxSIAeK-EAh3hB4fgNvYkYmghp&index=1
- - geeksforgeeks.org/socket-programming-in-java/
+ - https://www.geeksforgeeks.org/socket-programming-in-java/
