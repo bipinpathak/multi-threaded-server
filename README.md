@@ -17,6 +17,8 @@ Combining both the terms we will create...
 
 A server that can handle multiple threads, where each thread is responsible to process a separate request from every client(user). The server starts running a new thread whenever it finds a coming request meant for itself. Also, the server should provide facilities, so that concurrent threads can run safely without disrupting each other's operations.
 
+## Issues and challenges of the Project
+1. We need to maintain the chronological order in which the server receives requests in the client's view because in chat applications chronology is imperative.
 
 ## Tech-Stack
 - [C++]
