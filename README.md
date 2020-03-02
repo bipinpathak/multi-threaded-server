@@ -20,6 +20,13 @@ A server that can handle multiple threads, where each thread is responsible to p
 ## Issues and challenges of the Project
 1. We need to maintain the chronological order in which the server receives requests in the client's view because in chat applications chronology is imperative.
 
+## Diagrammatical Preview
+![image](https://user-images.githubusercontent.com/42748556/75666415-c7ccde80-5c9b-11ea-984b-ba7fe3d3f224.png)
+Basic Model
+
+![image](https://user-images.githubusercontent.com/42748556/75666596-14181e80-5c9c-11ea-810b-94efbb19ad16.png)
+Initial server setup
+
 ## Tech-Stack
 - [C++]
 
