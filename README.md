@@ -17,20 +17,5 @@ Combining both the terms we will create...
 
 A server that can handle multiple threads, where each thread is responsible to process a separate request from every client(user). The server starts running a new thread whenever it finds a coming request meant for itself. Also, the server should provide facilities, so that concurrent threads can run safely without disrupting each other's operations.
 
-## Issues and challenges of the Project
-1. We need to maintain the chronological order in which the server receives requests in the client's view because in chat applications chronology is imperative.
-
-## Diagrammatical Preview
-![image](https://user-images.githubusercontent.com/42748556/75666415-c7ccde80-5c9b-11ea-984b-ba7fe3d3f224.png)
-Basic Model
-
-![image](https://user-images.githubusercontent.com/42748556/75666596-14181e80-5c9c-11ea-810b-94efbb19ad16.png)
-Initial server setup
-
 ## Tech-Stack
 - [C]
-
-## Resources
-
- - https://www.youtube.com/watch?v=TPVH_coGAQs&list=PLk6CEY9XxSIAeK-EAh3hB4fgNvYkYmghp&index=1
- - https://www.geeksforgeeks.org/socket-programming-in-java/
