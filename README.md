@@ -28,7 +28,7 @@ Basic Model
 Initial server setup
 
 ## Tech-Stack
-- [C++]
+- [C]
 
 ## Resources
 
